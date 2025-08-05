@@ -3,6 +3,7 @@ Project Overview
 
 
 (./Screenshots/Screenshot 2025-08-05 012353.png)
+(Screenshots/Screenshot 2025-08-05 012420.png)
 
 Figure 1: Comprehensive Financial Dashboard
 
