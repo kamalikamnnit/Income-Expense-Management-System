@@ -2,8 +2,7 @@ Expense Tracker Application - README
 Project Overview
 
 
-(./Screenshots/Screenshot 2025-08-05 012353.png)
-(Screenshots/Screenshot 2025-08-05 012420.png)
+(./Screenshots/Screenshot 2025-08-05 012420.png)
 
 Figure 1: Comprehensive Financial Dashboard
 
@@ -88,4 +87,5 @@ Expenses: Track and categorize spending (Figure 3)
 
 
 (./Screenshots/Screenshot 2025-08-05 012408.png)
+
 Figure 4: Detailed Financial Analytics
