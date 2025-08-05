@@ -7,6 +7,8 @@
 Figure 1: Comprehensive Financial Dashboard
 
 
+
+
 The Financial Management System is a full-stack web application designed to help users track income and expenses with intuitive visualizations.
 This professional-grade solution provides real-time financial insights through interactive dashboards and comprehensive reporting.
 
@@ -27,6 +29,8 @@ This professional-grade solution provides real-time financial insights through i
 Figure 2: Income Tracking Interface
 
 
+
+
 💼 Transaction Management
 
 💸 Income Tracking:
@@ -40,6 +44,8 @@ Figure 2: Income Tracking Interface
 
 <img width="1919" height="916" alt="Screenshot 2025-08-05 012420" src="https://github.com/user-attachments/assets/8bd88f52-3582-4b89-ada0-18a99466b7b6" />
 Figure 3: Expense Management Console
+
+
 
 
 🧾 Expense Tracking:
@@ -77,6 +83,7 @@ Figure 3: Expense Management Console
   •Database: PostgreSQL / MySQL
 
 
+
 ⚙️ System Requirements
 
 💻 Development Environment
@@ -92,6 +99,7 @@ Figure 3: Expense Management Console
   •PostgreSQL 14+ or MySQL 8.0
 
 
+
 🚀 Production Environment
 
   •Minimum 2GB RAM
@@ -99,6 +107,7 @@ Figure 3: Expense Management Console
   •1 vCPU
 
   •10GB storage
+
 
 🛠️ Installation Guide
 
@@ -120,7 +129,9 @@ Figure 3: Expense Management Console
 •Authentication: Set your JWT secret key in the backend
 
 
+
 🚀 Usage Instructions
+
 
 Dashboard
 
