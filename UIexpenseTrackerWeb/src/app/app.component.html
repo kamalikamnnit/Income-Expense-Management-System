@@ -1,0 +1,96 @@
+<!-- <nz-layout class="layout">
+   <nz-sider>
+     <div class = "logo">
+        <img
+        src="https://static.vecteezy.com/system/resources/previews/009/749/751/original/avatar-man-icon-cartoon-male-profile-mascot-illustration-head-face-business-user-logo-free-vector.jpg"
+        alt = "Avatar" class = "avatar">
+       <div class = "user-info">
+          <strong>Root</strong>
+       </div>
+     </div>
+
+    <ul nz-menu nzTheme="dark" nzMode="inline">
+  <li nz-menu-item>
+    <a routerLink="/">
+      <span nz-icon nzType="dashboard"></span>
+      <span>Dashboard</span>
+    </a>
+  </li>
+
+  <li nz-menu-item>
+    <a routerLink="/income">
+      <span nz-icon nzType="fund"></span>
+      <span>Income</span>
+    </a>
+  </li>
+
+  <li nz-menu-item>
+    <a [routerLink]="['/expense']">
+      <span nz-icon nzType="fall"></span>
+      <span>Expense</span>
+    </a>
+  </li>
+</ul>
+
+   </nz-sider>
+
+   <nz-layout class = "right-layout">
+       <nz-content>
+           <div class = "inner-content">
+             <router-outlet></router-outlet>
+           </div>
+       </nz-content>
+   </nz-layout>
+</nz-layout> -->
+
+
+<nz-layout class="layout">
+  <nz-sider class="sider">
+    <div class="logo">
+      <img
+        src="https://static.vecteezy.com/system/resources/previews/009/749/751/original/avatar-man-icon-cartoon-male-profile-mascot-illustration-head-face-business-user-logo-free-vector.jpg"
+        alt="Avatar" class="avatar">
+      <div class="user-info">
+        <strong>Root</strong>
+        <span>Administrator</span>
+      </div>
+    </div>
+
+    <ul nz-menu nzTheme="dark" nzMode="inline" class="menu">
+      <li nz-menu-item>
+        <a routerLink="/" class="menu-item">
+          <span nz-icon nzType="dashboard" class="menu-icon"></span>
+          <span>Dashboard</span>
+        </a>
+      </li>
+      <li nz-menu-item>
+        <a routerLink="/income" class="menu-item">
+          <span nz-icon nzType="fund" class="menu-icon"></span>
+          <span>Income</span>
+        </a>
+      </li>
+      <li nz-menu-item>
+        <a routerLink="/expense" class="menu-item">
+          <span nz-icon nzType="fall" class="menu-icon"></span>
+          <span>Expense</span>
+        </a>
+      </li>
+    </ul>
+  </nz-sider>
+
+  <nz-layout class="right-layout">
+    <nz-header class="header">
+      <div class="header-content">
+        <span class="header-title">Financial Dashboard</span>
+      </div>
+    </nz-header>
+    <nz-content class="content">
+      <div class="inner-content">
+        <router-outlet></router-outlet>
+      </div>
+    </nz-content>
+    <nz-footer class="footer">
+      Financial App ©2023 - All Rights Reserved
+    </nz-footer>
+  </nz-layout>
+</nz-layout>

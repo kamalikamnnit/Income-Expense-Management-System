@@ -1,0 +1,12 @@
+:host {
+  display: block;
+
+  canvas {
+    width: 100% !important;
+    height: 400px !important;
+  }
+
+  nz-card {
+    margin-bottom: 16px;
+  }
+}
