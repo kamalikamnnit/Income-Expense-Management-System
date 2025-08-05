@@ -3,6 +3,7 @@ Project Overview
 
 
 ![Dashboard Screenshot](./Screenshots/Screenshot 2025-08-05 012353.png)
+https://./screenshots/Screenshot_2025-08-05_012353.png
 Figure 1: Comprehensive Financial Dashboard
 
 The Financial Management System is a full-stack web application designed to help users track their income and expenses with intuitive visualizations.
