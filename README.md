@@ -2,8 +2,8 @@ Expense Tracker Application - README
 Project Overview
 
 
-![Dashboard Screenshot](./Screenshots/Screenshot 2025-08-05 012353.png)
-https://./screenshots/Screenshot_2025-08-05_012353.png
+(./Screenshots/Screenshot 2025-08-05 012353.png)
+
 Figure 1: Comprehensive Financial Dashboard
 
 The Financial Management System is a full-stack web application designed to help users track their income and expenses with intuitive visualizations.
@@ -18,7 +18,7 @@ Quick financial overview
 
 
 
-![Dashboard Screenshot](./Screenshots/Screenshot_2025-08-05_012420.png)
+(./Screenshots/Screenshot_2025-08-05_012420.png)
 Figure 2: Income Tracking Interface
 
 Transaction Management
@@ -28,7 +28,7 @@ Detailed income records with dates and descriptions
 Minimum/maximum income analysis
 
 
-![Dashboard Screenshot](./Screenshots/Screenshot_2025-08-05_012430.png)
+(./Screenshots/Screenshot_2025-08-05_012430.png)
 Figure 3: Expense Management Console
 
 Expense Tracking:
@@ -69,10 +69,10 @@ Production Environment
 Installation Guide
 Frontend Setup
 
-![Dashboard Screenshot](./Screenshots/Screenshot 2025-08-05 164539.png)
+(./Screenshots/Screenshot 2025-08-05 164539.png)
 
 Backend Setup
-![Dashboard Screenshot](./Screenshots/Screenshot 2025-08-05 164548.png)
+(./Screenshots/Screenshot 2025-08-05 164548.png)
 
 Configuration
 
@@ -86,5 +86,5 @@ Income: Add and manage income sources (Figure 2)
 Expenses: Track and categorize spending (Figure 3)
 
 
-![Dashboard Screenshot](./Screenshots/Screenshot 2025-08-05 012408.png)
+(./Screenshots/Screenshot 2025-08-05 012408.png)
 Figure 4: Detailed Financial Analytics
