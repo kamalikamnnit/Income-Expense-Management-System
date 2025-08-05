@@ -2,8 +2,7 @@ Expense Tracker Application - README
 Project Overview
 
 
-(./Screenshots/Screenshot 2025-08-05 012420.png)
-
+<img width="1919" height="925" alt="Screenshot 2025-08-05 012353" src="https://github.com/user-attachments/assets/854139ba-f4da-4e6e-94dc-bb81f4b0b896" />
 Figure 1: Comprehensive Financial Dashboard
 
 The Financial Management System is a full-stack web application designed to help users track their income and expenses with intuitive visualizations.
@@ -17,8 +16,7 @@ Historical trend visualization
 Quick financial overview
 
 
-
-(./Screenshots/Screenshot_2025-08-05_012420.png)
+<img width="1919" height="916" alt="Screenshot 2025-08-05 012420" src="https://github.com/user-attachments/assets/12897594-7cb0-49df-bcca-86f7162a4b41" />
 Figure 2: Income Tracking Interface
 
 Transaction Management
@@ -28,7 +26,8 @@ Detailed income records with dates and descriptions
 Minimum/maximum income analysis
 
 
-(./Screenshots/Screenshot_2025-08-05_012430.png)
+<img width="1916" height="964" alt="Screenshot 2025-08-05 012430" src="https://github.com/user-attachments/assets/5c4bfcac-8820-4471-bc01-6b0a36ec3edc" />
+
 Figure 3: Expense Management Console
 
 Expense Tracking:
@@ -68,11 +67,10 @@ Production Environment
 
 Installation Guide
 Frontend Setup
-
-(./Screenshots/Screenshot 2025-08-05 164539.png)
+<img width="930" height="182" alt="Screenshot 2025-08-05 164539" src="https://github.com/user-attachments/assets/d28135ba-b34e-43ed-8c30-da286d96fc31" />
 
 Backend Setup
-(./Screenshots/Screenshot 2025-08-05 164548.png)
+<img width="921" height="153" alt="Screenshot 2025-08-05 164548" src="https://github.com/user-attachments/assets/bba665bd-bafc-4d58-8b70-fd9c7a6780d7" />
 
 Configuration
 
@@ -86,6 +84,6 @@ Income: Add and manage income sources (Figure 2)
 Expenses: Track and categorize spending (Figure 3)
 
 
-(./Screenshots/Screenshot 2025-08-05 012408.png)
+<img width="1657" height="775" alt="Screenshot 2025-08-05 012408" src="https://github.com/user-attachments/assets/51832b3b-993d-44d0-8085-b5a7e15d0c10" />
 
 Figure 4: Detailed Financial Analytics
